@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+    <body>
+  
+   <center>
+     <img src="https://i2.cdn.turner.com/money/dam/assets/150831165000-google-10-1998-to-05-1999-640x640.png" style="width:300px;height:300px;" >
+     </center><br>
+    
+    <center>
+    <label for="anything">Search the web using Google</label><br>
+    <input type="text" id="anything" name="anything"><br>
+     </center>
+     
+    <center> <button class="google-search"
+     type="button">
+       Google Search
+     </button>
+       
+       <button class="feeling-lucky"
+       type="button"> I'm feeling lucky</button><br>
+     </center>
+      
+      <style>
+        button {margin-bottom:20px;}
+      </style>
+    
+    <center><a href="https://google.com/">More Google!</a></center><br>
+      
+    
+    <center>
+      <h6>Copyright 1999 &copy; Google Inc.</h6>
+      </center>
+      
+    </body>
+    
+  </html>
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</html>
